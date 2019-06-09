@@ -1,3 +1,5 @@
+# THIS IS A FORK OF [WenmuZhou/PSENet.pytorch](https://github.com/WenmuZhou/PSENet.pytorch) REPOSITORY
+
 # Shape Robust Text Detection with Progressive Scale Expansion Network
 
 ## Requirements
